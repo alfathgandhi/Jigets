@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "821989369424",
+    "firebase_url": "https://jigers-guide-c854a-default-rtdb.firebaseio.com",
+    "project_id": "jigers-guide-c854a",
+    "storage_bucket": "jigers-guide-c854a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821989369424:android:7c848367d98d4c76825355",
+        "android_client_info": {
+          "package_name": "org.d3ifcool.catat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821989369424-bnvc4qr9jghuvoopf1h9rgk016s48sim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.d3ifcool.catat",
+            "certificate_hash": "fc2bd862f067440cf7c11c5721546da5e93865b7"
+          }
+        },
+        {
+          "client_id": "821989369424-66v92b3j5oga8ahgdr74r3ur3c0chqdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx89KFwMHlvAVyNX5BQ3sG1dbhlcaLI9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821989369424-66v92b3j5oga8ahgdr74r3ur3c0chqdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
